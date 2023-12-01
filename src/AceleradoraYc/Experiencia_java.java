@@ -176,7 +176,7 @@ public class Experiencia_java {
  	             }    
            break;
 		
-		case 6: System.out.println("SALIENDO...profe coloqueme un 100% please XD ");
+		case 6: System.out.println("SALIENDO...");
 	      break; 
 	     default: System.out.println("Opcion no valida");
 		   
